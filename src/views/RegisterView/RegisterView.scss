@@ -1,0 +1,21 @@
+.reg-form {
+    width: 320px;
+}
+
+.reg-label {
+     display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+
+.reg-button {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.reg-button:hover {
+    background-color: blue;
+    color: turquoise;
+}
